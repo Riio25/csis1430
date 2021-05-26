@@ -2,7 +2,7 @@ table{
     border-collapse: collapse;
 }
 
-td {
+td,th {
     border: 3px solid black;
 }
 
@@ -34,4 +34,8 @@ span {
 img{
     width: 125px;
     height: 125px;
+}
+
+iframe {
+    padding-top: 25px;
 }
