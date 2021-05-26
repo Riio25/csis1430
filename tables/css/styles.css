@@ -1,0 +1,37 @@
+table{
+    border-collapse: collapse;
+}
+
+td {
+    border: 3px solid black;
+}
+
+.heading_title {
+    font-weight: bold;
+    text-align: center;
+    padding: 5px 0;
+}
+
+.heading_length, .heading_channel{
+    padding: 0 8px;
+}
+
+.content_name, .content_description, .content_pic{
+    padding: 5px 15px;
+}
+.content_time, .content_channel {
+    text-align: center;    
+}
+
+.content_description {
+    width: 350px;
+}
+
+span {
+    color: red;
+}
+
+img{
+    width: 125px;
+    height: 125px;
+}
