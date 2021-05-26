@@ -37,5 +37,9 @@ img{
 }
 
 .embed {
-    padding-top: 25px;
+    padding-top: 60px;
+}
+
+iframe {
+    border: none;
 }
